@@ -2,10 +2,6 @@
 
 ### Full-Stack Software Engineer · Product Builder · AI Engineer
 
-I build software that solves real problems. From designing intuitive user interfaces to engineering backend systems, APIs and database architectures, I enjoy taking ideas from concept to production.
-
-Currently focused on building scalable web applications, AI-powered products and reliable software systems.
-
 **Nairobi, Kenya** · Open to remote opportunities
 
 [Portfolio](https://alexnjorogewebsite.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/alexnjoroge/) · [GitHub](https://github.com/AlexNjoroge01)
