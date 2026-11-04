@@ -45,33 +45,18 @@ Currently focused on building scalable web applications, AI-powered products and
 
 ### SimpleForms
 An AI-powered form builder designed with a Kenyan-first approach. Create, customize and manage forms with AI-assisted workflows.
-
-**Stack:** Next.js · React · TypeScript · PostgreSQL · Drizzle · OpenRouter
-
 [Live Demo](https://simpleformske.vercel.app/)
-
 ### BaseDrive
 A cloud-based file management application focused on organizing, storing and sharing digital assets.
-
-**Stack:** Next.js · TypeScript · PostgreSQL · Cloud Storage
-
+![Live Demo](https://basedrive.vercel.app/)
 ### PesaVision
 An AI-powered financial analytics application that transforms M-Pesa statements into actionable financial insights.
-
-**Stack:** Next.js · TypeScript · AI SDK · Groq · PostgreSQL
-
+![Live Demo](https://pesavision.vercel.app/)
 ### Voice-Controlled POS & Inventory System
 A voice controlled Point of Salve and Inventory system. An upgrade from manually typing to using voice to control a normal POS.
-
-**stack** Next.js . Express.js . Typescript . ElevenLabs conversational AI
-
 [Live Demo](https://baselinepos.vercel.app/)
-
 ### SheriaBot
 A Generative AI Legal and Law Advisory application powered by RAG to help citizens learn and practice their rights.
-
-**Stack:** Next.js · TypeScript . Langchain . RAG 
-
 [Live Demo](https://deepspace-atlas.vercel.app/)
 
 ---
