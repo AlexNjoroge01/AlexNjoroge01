@@ -41,44 +41,15 @@ Currently focused on building scalable web applications, AI-powered products and
 
 ---
 
-## SELECTED PROJECTS
-
-### SimpleForms
-An AI-powered form builder designed with a Kenyan-first approach. Create, customize and manage forms with AI-assisted workflows.
-
-[Live Demo](https://simpleformske.vercel.app/)
-
-### BaseDrive
-A cloud-based file management application focused on organizing, storing and sharing digital assets.
-
-![Live Demo](https://basedrive.vercel.app/)
-
-### PesaVision
-An AI-powered financial analytics application that transforms M-Pesa statements into actionable financial insights.
-![Live Demo](https://pesavision.vercel.app/)
-
-### Voice-Controlled POS & Inventory System
-A voice controlled Point of Salve and Inventory system. An upgrade from manually typing to using voice to control a normal POS.
-
-[Live Demo](https://baselinepos.vercel.app/)
-
-### SheriaBot
-A Generative AI Legal and Law Advisory application powered by RAG to help citizens learn and practice their rights.
-[Live Demo](https://deepspace-atlas.vercel.app/)
-
----
 
 ## ENGINEERING INTERESTS
 
-- Full-stack application architecture
-- Backend engineering and API design
-- Database design and optimization
 - AI integration and agentic applications
 - Performance optimization and scalability
 - Developer tooling and software automation
 - Cloud infrastructure and deployment
 - Generative AI and LLMS - RAG Architectures and LLM Powered Applications
--AI Engineering and MLOPs - Model deployment, Monitoring, Optimization and AI Infrastructure
+- AI Engineering and MLOPs - Model deployment, Monitoring, Optimization and AI Infrastructure
 
 ---
 
@@ -89,12 +60,6 @@ Deepening my understanding of distributed systems, backend architecture, databas
 I believe good software engineering is about more than making things work. It's about building systems that are understandable, reliable, maintainable and capable of evolving.
 
 
-
-## GITHUB ACTIVITY
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexNjoroge01&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexNjoroge01&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
