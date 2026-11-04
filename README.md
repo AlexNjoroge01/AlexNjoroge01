@@ -1,21 +1,12 @@
-# Alex Njoroge
+Alex
 
-### Full-Stack Software Engineer · Product Builder · AI Engineer
+Full-Stack Software Engineer · Product Builder · AI Engineer
 
 **Nairobi, Kenya** · Open to remote opportunities
 
 [Portfolio](https://alexnjorogewebsite.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/alexnjoroge/) · [GitHub](https://github.com/AlexNjoroge01)
 
 ---
-
-### Most Used Languages
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexNjoroge01&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    alt="Most Used Languages"
-  />
-</p>
 
 ## TECH STACK
 
