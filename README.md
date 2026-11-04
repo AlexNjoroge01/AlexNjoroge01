@@ -35,8 +35,8 @@ Currently focused on building scalable web applications, AI-powered products and
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Linux]
-![Bash]
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 
 ---
@@ -45,16 +45,23 @@ Currently focused on building scalable web applications, AI-powered products and
 
 ### SimpleForms
 An AI-powered form builder designed with a Kenyan-first approach. Create, customize and manage forms with AI-assisted workflows.
+
 [Live Demo](https://simpleformske.vercel.app/)
+
 ### BaseDrive
 A cloud-based file management application focused on organizing, storing and sharing digital assets.
+
 ![Live Demo](https://basedrive.vercel.app/)
+
 ### PesaVision
 An AI-powered financial analytics application that transforms M-Pesa statements into actionable financial insights.
 ![Live Demo](https://pesavision.vercel.app/)
+
 ### Voice-Controlled POS & Inventory System
 A voice controlled Point of Salve and Inventory system. An upgrade from manually typing to using voice to control a normal POS.
+
 [Live Demo](https://baselinepos.vercel.app/)
+
 ### SheriaBot
 A Generative AI Legal and Law Advisory application powered by RAG to help citizens learn and practice their rights.
 [Live Demo](https://deepspace-atlas.vercel.app/)
