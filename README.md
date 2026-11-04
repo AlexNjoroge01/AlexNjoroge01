@@ -49,14 +49,4 @@ Full-Stack Software Engineer · Product Builder · AI Engineer
 
 ---
 
-## CURRENT FOCUS
-
-Deepening my understanding of distributed systems, backend architecture, database internals, software testing and production engineering.
-
-I believe good software engineering is about more than making things work. It's about building systems that are understandable, reliable, maintainable and capable of evolving.
-
-
-
----
-
 *Building deliberately. Learning continuously. Shipping consistently.*
