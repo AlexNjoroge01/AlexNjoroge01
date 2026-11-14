@@ -31,9 +31,6 @@ Full-Stack Software Developer ·  Agentic AI and LLM Infrastructure Engineer
 
 ## ENGINEERING INTERESTS
 
-- AI integration and agentic applications
-- Performance optimization and scalability
-- Developer tooling and software automation
 - Cloud infrastructure and deployment
 - Generative AI and LLMS - RAG Architectures and LLM Powered Applications
 - AI Engineering and MLOPs - Model deployment, Monitoring, Optimization and AI Infrastructure
