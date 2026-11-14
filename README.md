@@ -1,6 +1,6 @@
 Alex
 
-Full-Stack Software Engineer ·  Agentic AI and LLM Infrastructure Engineer
+Full-Stack Software Developer ·  Agentic AI and LLM Infrastructure Engineer
 
 **Nairobi, Kenya** · Open to remote opportunities
 
